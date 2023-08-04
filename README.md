@@ -18,6 +18,9 @@ User details submitted through the contact form are securely stored in a MongoDB
 ![AllPosts](https://github.com/IanKaire/TechBlog/assets/114652346/c4440bae-bd33-4667-89d6-0922ba8ba5e3)
 ![BlogPost Detail](https://github.com/IanKaire/TechBlog/assets/114652346/341f7b66-70b3-4118-b4bf-9654c2153c15)
 ![ContactPage](https://github.com/IanKaire/TechBlog/assets/114652346/ac02b0c3-571f-4f52-90bd-c90a48df82eb)
+![ContactPageSendingMessage](https://github.com/IanKaire/TechBlog/assets/114652346/a458df20-f5af-456c-8f71-3a789fdf37a8)
+![ContactPageSuccessMessage](https://github.com/IanKaire/TechBlog/assets/114652346/67f84441-c6ba-41e3-ab8c-97d287314f85)
+
 
 # Key Dependencies Used
 1. **gray-matter**: a lightweight and flexible library used to parse front-matter from content files. Front-matter is metadata placed at the beginning of a file, typically used to store additional information about the content.
